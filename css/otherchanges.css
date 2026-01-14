@@ -1,3 +1,26 @@
 img {
     width:100%;
 }
+
+.imgcard {
+
+    width:auto;
+
+    height:100%;
+    max-height:30rem;
+
+}
+
+@media screen and (max-width:767px) {
+
+    .imgcard {
+
+    width:100%;
+    max-width:33rem;
+
+    height:auto;
+    max-height:auto;
+
+}
+
+}
