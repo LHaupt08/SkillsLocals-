@@ -1,2 +1,2 @@
-Work Sample 1: Skills USA Locals Website
+#Work Sample 1: Skills USA Locals Website
 This was the website I had made for Skills USA Locals, which had placed 4th within our class. Our goal was to make a website for this animal shelter, and we still had access to the wireframes, colors, and fonts we picked out during the first practice. We were allowed to use bootstrap during this, which allowed us to get things that would have taken a long time done rather quickly. Unfortunately, this was not my best attempt, and while the mobile layout looked nice, I had not had enough time to fix the rounded corners within that version of the website. I chose this as my example as it is my best website-related project so far, but I plan to work on a better one eventually.
